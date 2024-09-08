@@ -1,2 +1,2 @@
-# mansick
-Stress Detection And Emergency Response System
+
+# Stress Detection And Emergency Response System
